@@ -1,7 +1,11 @@
 # WeChat
 
-Source: https://twitter.com/0xDUDE/status/1107793510881742848
-Description: 1.081.231.257 captured WeChat dialogues containing 3.784.309.399 messages dated 18 March 2019 were automatically selected for review based on a keyword trigger. Not all the dialogues were in Chinese or only had GPS coordinates in China.
+
+
+Type  | Value
+----------- | -------------
+Source | https://twitter.com/0xDUDE/status/1107793510881742848
+Description | 1.081.231.257 captured WeChat dialogues containing 3.784.309.399 messages dated 18 March 2019 were automatically selected for review based on a keyword trigger. Not all the dialogues were in Chinese or only had GPS coordinates in China.
 
 ## Project files:
  * MongoDB db.stats() `db.tencent.stats()`
